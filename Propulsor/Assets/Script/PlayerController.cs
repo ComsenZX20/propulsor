@@ -14,6 +14,8 @@ public class PlayerController : MonoBehaviour
     float impulse = 2f;
     [SerializeField]
     TextMeshProUGUI labelFuel;
+    [SerializeField]
+    
     // Start is called before the first frame update
 
     float gasolinaActual = 100f;
